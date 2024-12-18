@@ -1,2 +1,2 @@
 # zopo
-A tool to tranlate your genealogy to printable pdf
+A tool to tranlate your file-based genealogy to printable pdf, and back.
